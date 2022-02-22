@@ -1,4 +1,4 @@
 # openfieldbus
-Analysis of the most common communication protocols used in industrial automation.
+Analysis of the most common communication protocols used in Industrial Automation.
 
 
